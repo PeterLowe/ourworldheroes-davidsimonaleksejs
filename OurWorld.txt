@@ -1,41 +1,21 @@
-<<<<<<< HEAD
-Compiled by David Hájek,[DH] Peter Lowe [PL], Simon korolova [SK], Aleksejs Buciks[AB]
->>>>>>> b96bfc875faddeac2f51bd3fc0f6e9a92bdc6684
+Compiled by David Hájek,[DH] Peter Lowe [PL], Simon korolova [SK]
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
----- United States of America [pl]
-The world's 4th Longest River System is in the USA.
-
----- Brazil [DH]
-Brazil has the greatest variety of animals of any country in the world. 
-It is home to 600 mammal species, 1,500 fish species, 1,600 bird species
+---- Haiti [SK]
+Haiti is the poorest country in the Western hemisphere, and it is also the third-largest country in the Caribbean.
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
----- France [pl]
-The French consume around 25,000 tons of snails each year.
-
----- Czechia [DH]
-The Czech republic has the best beer, objectively 
+---- Latvia [SK]
+Though the majority of Latvians speak Russian, do not misunderstand them as Russians. Latvians are a separate ethnic group.
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
------ Egypt [pl]
-Ancient Egyptian bakers sometimes kneaded bread dough with their feet.
-
----- Ethiopia [DH]
-Ethiopia’s Danakil Depression is the hottest place on Earth.
-The average year-round temperature is 34.4 degrees Celsius
+----- Madagascar [SK]
+The flag of madagascar was adopted in 1958. The white represents purity, the red symbolises sovereignty and the green denotes coastal regions and expresses hope.
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
------- China [pl]
-The Chinese invented ice cream over 4, 000 years ago by mixing milk with a rice mixture. 
-
----- Mongolia [DH]
-There are almost as many people as horses in Mongolia.
-
+------ Brunei [Sk]
+Citizens of Brunei do not pay income tax. brunei is one of just 13 countries which have an indvidual income tax of zero (0%). 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
------ GreenLand [pl]
-Greenland is home to the largest National Park in the world
-
---- Australia [DH]
-The Great Barrier Reef is the largest eco-system in the world
+----- Vanuatu [Sk]
+It is believed the first inhabitants of Vanuatu were the Melanesian people of the Lapita culture, arriving from around 1300BC.
