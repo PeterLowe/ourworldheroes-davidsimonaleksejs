@@ -1,4 +1,6 @@
-Compiled by David Hájek[DH], Aleksejs Buciks[AB], Peter Lowe [PL]
+<<<<<<< HEAD
+Compiled by David Hájek,[DH] Peter Lowe [PL], Simon korolova [SK], Aleksejs Buciks[AB]
+>>>>>>> b96bfc875faddeac2f51bd3fc0f6e9a92bdc6684
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
