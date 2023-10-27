@@ -1,4 +1,4 @@
-Compiled by David Hájek,[DH] Peter Lowe [PL]
+Compiled by David Hájek,[DH] Peter Lowe [PL], Simon korolova [SK]
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
